@@ -13,7 +13,7 @@ Ateliê 13
 &nbsp;&nbsp;&nbsp;&nbsp;E este foi o resultado:
 
 <div align='center'>
-<img src="../assets/image.png" alt='Modelo Relacional de Banco de Dados'>
+<img src="/assets/image.png" alt='Modelo Relacional de Banco de Dados'>
 
 <sub>Fonte: Material produzido pelo autor /(2024)</sub>
 </div>
